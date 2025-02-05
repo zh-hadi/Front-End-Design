@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+
+.active {
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 4px;
+    border: 8px solid transparent;
+    border-width: 14px 10px;
+}
